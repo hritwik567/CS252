@@ -1,0 +1,16 @@
+            <a href="./Wallpapers/1.png"><img src="./Wallpapers/1.png" style="width:100%"></a>
+            <a href="./Wallpapers/2.png"><img src="./Wallpapers/2.png" style="width:100%"></a>
+            <a href="./Wallpapers/cg.png"><img src="./Wallpapers/cg.png" style="width:100%"></a>
+            <a href="./Wallpapers/4.jpg"><img src="./Wallpapers/4.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/loch-ness-monster.jpg"><img src="./Wallpapers/loch-ness-monster.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/GYsLd12.png"><img src="./Wallpapers/GYsLd12.png" style="width:100%"></a>
+            <a href="./Wallpapers/firewatch-wallpaper-12.jpg"><img src="./Wallpapers/firewatch-wallpaper-12.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/6.jpg"><img src="./Wallpapers/6.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/3.jpg"><img src="./Wallpapers/3.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/7.jpg"><img src="./Wallpapers/7.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/8788.png"><img src="./Wallpapers/8788.png" style="width:100%"></a>
+            <a href="./Wallpapers/Code Geass Wallpaper.jpg"><img src="./Wallpapers/Code Geass Wallpaper.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/1116537.jpg"><img src="./Wallpapers/1116537.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/cw.jpg"><img src="./Wallpapers/cw.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/Ocelot.jpg"><img src="./Wallpapers/Ocelot.jpg" style="width:100%"></a>
+            <a href="./Wallpapers/z.jpg"><img src="./Wallpapers/z.jpg" style="width:100%"></a>
